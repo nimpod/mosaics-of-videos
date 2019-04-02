@@ -1,2 +1,2 @@
 # mosaics-of-videos
-Python script to generate a mosaic image containing frames from a video
+Python script that converts an image into a mosaic of frames from a video
